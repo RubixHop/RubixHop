@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @RubixHop
 - 👀 I’m interested in CODE! 
-- 🌱 I’m currently learning fundamentals of Microsoft Azure and SQL Server!
+- 🌱 I’m currently learning SQL / T-SQL Server!
